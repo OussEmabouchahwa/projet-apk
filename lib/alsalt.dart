@@ -43,7 +43,7 @@ class _prayenState extends State<prayen> {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        title: Text('أذكار الصلة'),
+        title: Text('أذكار الصلاة'),
       ),
       body:
       ListView.builder(
