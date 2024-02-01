@@ -7,7 +7,7 @@ class Container1 extends StatefulWidget {
   _Container1State createState() => _Container1State();
 }
 class _Container1State extends State<Container1> {
-  List<String> athkarList = ["أذكار صباح", "أذكار المساء", "أذكار المسجد", "أذكار الاستيقاظ", "أذكار النوم", "أذكار الصلة"];
+  List<String> athkarList = ["أذكار صباح", "أذكار المساء", "أذكار المسجد", "أذكار الاستيقاظ", "أذكار النوم", "أذكار الصلاة"];
 
   @override
   Widget build(BuildContext context) {
